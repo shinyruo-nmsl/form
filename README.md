@@ -116,3 +116,5 @@ subAddressForm.check(['name', 'phone'])
 ```
 it works because the 'subAddressForm' can find the rules about 'name' and 'phone' by proto, I has helped you to handle it
 
+more details:
+https://zhuanlan.zhihu.com/p/590965689
